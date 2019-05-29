@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT chamill_3978.wsgi:application
